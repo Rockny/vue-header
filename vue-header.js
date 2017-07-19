@@ -6,7 +6,7 @@ module.exports = function (Vue) {
     document.title = title
   }
   Vue.directive('header-title', function (el, binding) {
-    setTitle(binding.value, el.getAttribute('img-set') || null)
+    setTitle(binding.value)
   })
   var setkeyWord = function (title) {
     if (title === undefined || window.document.title === title) {
