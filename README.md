@@ -6,7 +6,7 @@ App.Vue
     v-header-description="$route.meta.description"></router-view>
   </div>
 </template>
-
+```
 router
 ```javascript
 export default new Router({
@@ -45,3 +45,4 @@ export default new Router({
     }
   ]
 })
+```
