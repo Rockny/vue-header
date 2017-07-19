@@ -1,0 +1,22 @@
+{
+  "name": "vue-header",
+  "version": "1.0.0",
+  "description": "vue通过路由修改标题，关键字，描述",
+  "main": "vue-header.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rockny/vue-header.git"
+  },
+  "keywords": [
+    "vue通过路由修改标题，关键字，描述"
+  ],
+  "author": "rockn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rockny/vue-header/issues"
+  },
+  "homepage": "https://github.com/Rockny/vue-header#readme"
+}
