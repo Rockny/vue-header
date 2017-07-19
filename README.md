@@ -3,8 +3,8 @@ App.Vue
 <template>
   <div id="app">
     <router-view v-header-title="$route.meta.title" v-header-keywords="$route.meta.keyword" 
-    v-header-description="$route.meta.description"></router-view>
-  </div>
+    v-header-des  cription="$route.meta.description"></router-view>
+  </div>  
 </template>
 
 router
