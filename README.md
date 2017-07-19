@@ -1,4 +1,5 @@
 App.Vue
+
 <template>
   <div id="app">
     <router-view v-header-title="$route.meta.title" v-header-keywords="$route.meta.keyword" 
@@ -7,6 +8,7 @@ App.Vue
 </template>
 
 router
+
 export default new Router({
   mode: 'history',
   routes: [
