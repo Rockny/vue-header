@@ -1,4 +1,4 @@
-##App.Vue
+## App.Vue
 ```javascript
 <template>
   <div id="app">
@@ -7,7 +7,7 @@
   </div>
 </template>
 ```
-##router
+## router
 ```javascript
 export default new Router({
   mode: 'history',
